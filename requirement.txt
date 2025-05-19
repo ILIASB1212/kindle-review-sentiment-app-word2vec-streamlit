@@ -1,0 +1,6 @@
+streamlit
+re
+numpy
+nltk
+gensim
+joblib
