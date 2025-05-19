@@ -4,5 +4,7 @@ nltk
 pandas
 numpy
 joblib
+numpy
+pandas
 
 
