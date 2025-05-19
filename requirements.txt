@@ -4,3 +4,8 @@ nltk
 pandas
 numpy
 joblib
+gensim==4.1.2
+numpy==1.21.0
+scipy==1.7.1
+joblib==1.1.0
+
