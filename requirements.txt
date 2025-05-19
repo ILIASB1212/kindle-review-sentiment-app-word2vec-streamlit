@@ -1,6 +1,6 @@
-joblib
 streamlit
 gensim
 nltk
 pandas
 numpy
+joblib
